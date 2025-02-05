@@ -2,7 +2,7 @@
 
 Paper Information
 
-Title: Multimodal Movie Recommendation with Multitasking Architecture and Learning User-Movie Representation: An Empirical Study
+Title: **Multimodal Movie Recommendation with Multitasking Architecture and Learning User-Movie Representation: An Empirical Study**
 
 Accepted at: TCSS Journal
 
